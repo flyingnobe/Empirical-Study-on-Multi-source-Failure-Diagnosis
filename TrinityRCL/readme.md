@@ -31,7 +31,7 @@ Run the following commands in turn at bash or shell
 
 The running log will be saved at `logs/__main__.log`
 
-## Reproducibility
+## Reproduce
 
 1. download dataset from we provide for you
 2. change `dataset_dir: "path to the entry of aiops22 dataset you download"` in `aiops22.yaml`

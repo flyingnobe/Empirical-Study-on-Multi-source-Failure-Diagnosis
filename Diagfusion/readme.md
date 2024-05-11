@@ -41,7 +41,7 @@ Run the following commands in turn at bash or shell
 
 All result will be saved in `tmp_exp/`
 
-## Reproducibility
+## Reproduce
 
 1. download dataset we provide for you
 2. change all five dataset config in `./config/` at the position described below:
