@@ -1,0 +1,11 @@
+seed: 2024
+alpha: 0.2
+beta: 0.5
+gamma: 0.2
+rho: 0.5
+total_times: 1000000
+per_times: 1000
+restart_p: 0.5
+dataset: "aiops22"
+dataset_dir: "../datasets/aiops2022-pre"
+itv: 60

@@ -1,0 +1,5 @@
+__pycache__
+Diagfusion/data/**/dgl
+Diagfusion/data/**/fasttext
+Diagfusion/data/**/parse
+Diagfusion/data/**/sentence_embedding.pkl
