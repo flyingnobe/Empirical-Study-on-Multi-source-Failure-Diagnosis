@@ -43,8 +43,8 @@ All result will be saved in `tmp_exp/`
 
 ## Reproduce
 
-1. download dataset we provide for you
-2. change all five dataset config in `./config/` at the position described below:
+1. download three dataset except gaia we provide for you
+2. change all three dataset config in `./config/` at the position described below:
     ```yaml
     ...
     raw_data:
@@ -54,5 +54,7 @@ All result will be saved in `tmp_exp/`
     ```
 3. run `bash preprocess.sh`
 4. run `bash test.sh`
+
+> The public repository [Diagfusion](https://github.com/AIOps-Lab-NKU/DiagFusion) dosen't have executable preprocess code for raw gaia dataset, so we just use the intermediary file.
 
 All result will be saved in `tmp_exp/`
