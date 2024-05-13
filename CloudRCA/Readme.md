@@ -1,7 +1,7 @@
 # CloudRCA Of Empirical-Study-on-Multi-source-Failure-Diagnosis
 
-## Description
-A easy start demo. 
+## Artifact Description
+A simple demo for CloudRCA was provided, skipping the raw data processing section and offering pre-processed data instead.  
 
 ## Structure
 
@@ -16,8 +16,6 @@ A easy start demo.
 ## Getting Started
 
 > Recommend conda environment or venv  
-> We provide four dataset, all have been pre-processed, thus the complicated preprocessing section can be skipped  
-> Make your own dataset refer to [this paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481903)
 
 1. `pip install -r requirements.txt`
 2. `run python main.py --data <dataset>`
@@ -25,3 +23,8 @@ A easy start demo.
 Eg. python main.py --data aiops22
 
 Four datasets' name are 'platform' 'gaia' 'aiops21' and 'aiops22', refer to files in './parsed_data'
+
+## Reproducibility Instructions
+> We offer four preprocessed datasets, eliminating the need for the intricate preprocessing section. 
+> Create your own dataset based on the methodology outlined in [this paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481903), utilizing the raw data we provide.
+
