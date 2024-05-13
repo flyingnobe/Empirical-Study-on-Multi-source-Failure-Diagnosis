@@ -25,6 +25,6 @@ Eg. python main.py --data aiops22
 Four datasets' name are 'platform' 'gaia' 'aiops21' and 'aiops22', refer to files in './parsed_data'
 
 ## Reproducibility Instructions
-> We offer four preprocessed datasets, eliminating the need for the intricate preprocessing section. 
-> Create your own dataset based on the methodology outlined in [this paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481903), utilizing the raw data we provide.
+> We offer four preprocessed datasets, eliminating the need for the intricate preprocessing section.   
+> You may create your own dataset based on the methodology outlined in [this paper](https://dl.acm.org/doi/abs/10.1145/3459637.3481903), utilizing the raw data we provide.
 
