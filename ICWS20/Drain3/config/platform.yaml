@@ -1,0 +1,4 @@
+dataset: "platform"
+dataset_entry: "codebase/dataset/平台数据集"
+run_table: "codebase/dataset/平台数据集/run_table.csv"
+log_path: "ICWS20/Drain3/data/platform/"
