@@ -1,0 +1,4 @@
+dataset: "gaia"
+dataset_entry: "codebase/dataset/MicroSS"
+run_table: "codebase/dataset/MicroSS/GAIA_run_table.csv"
+log_path: "ICWS20/ICWS20/data/gaia/"

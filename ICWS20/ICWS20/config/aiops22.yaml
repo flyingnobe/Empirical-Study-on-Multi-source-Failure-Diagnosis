@@ -1,0 +1,4 @@
+dataset: "aiops22"
+dataset_entry: "datasets/aiops2022-pre"
+run_table: "datasets/aiops2022-pre/run_table.csv"
+log_path: "ICWS20/ICWS20/data/aiops22/"

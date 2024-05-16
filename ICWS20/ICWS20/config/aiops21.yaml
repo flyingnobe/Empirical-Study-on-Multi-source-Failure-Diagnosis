@@ -1,0 +1,4 @@
+dataset: "aiops21"
+dataset_entry: "datasets/aiops2021-2"
+run_table: "datasets/aiops2021-2/aiops21_groundtruth.csv"
+log_path: "ICWS20/ICWS20/data/aiops21/"
